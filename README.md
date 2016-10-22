@@ -5,7 +5,7 @@ This is a speculating game based on the real standard public land price data of 
 ![Screenshot]()
 
 #### Youtube link
-* [Video1]()
+* [Video1](https://youtu.be/n_SPKlUmoXw)
 
 #### This project used below
 * Unity

@@ -2,7 +2,7 @@
 
 This is a speculating game based on the real standard public land price data of Korea Ministry of Land.
 
-![Screenshot]()
+![Screenshot](https://github.com/jihoonsong/TheSpeculators/blob/master/image/demo.PNG)
 
 #### Youtube link
 * [Video1](https://youtu.be/n_SPKlUmoXw)
